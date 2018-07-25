@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+__pycache__
+cifar_save_dir
+mnist_save_dir
